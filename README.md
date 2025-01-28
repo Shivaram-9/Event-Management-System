@@ -42,19 +42,16 @@ Click 'Add Event' to save.
 The event will appear in the upcoming events section.
 
 # Searching for Events
-
 Use the Search Bar on index.html.
 Enter a title, date, or location.
 Click 'Search' to find matching events.
 
 # Technologies Used
-
 HTML for structure
 CSS for styling
 JavaScript for event handling & local storage
 
 # Future Enhancements
-
 Add event deletion & editing features.
 Implement database storage instead of Local Storage.
 Improve authentication security.
